@@ -1,5 +1,7 @@
 ![Logo-nav](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/Kalvium-Logo.png)
 
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/nikiljos/lab-js-async-CSK101-M3-L107)
+
 ## How to approach this lab:
 This lab targets the idea of callback functions along with async and promises. This lab should be completed step by step - following all the instruction given below. 
 You need to solve this lab in the order given below:
